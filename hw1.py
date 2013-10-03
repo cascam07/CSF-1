@@ -45,19 +45,9 @@ print "Problem 2 solution follows:"
 
 import hw1_test
 
-a = True
-b = False
-c = True
-d = False
-e = False
-f = True
+from hw1_test import a, b, c, d, e, f
 
-print str(a)
-print str(b)
-print str(c)
-print str(d)
-print str(e)
-print str(f)
+print a, b, c, d, e, f
 
 
 
