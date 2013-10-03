@@ -47,8 +47,7 @@ import hw1_test
 
 from hw1_test import a, b, c, d, e, f
 
-print a, b, c, d, e, f
-
+print str (a), str (b), str (c), str (d), str (e), str (f)
 
 
 ###
