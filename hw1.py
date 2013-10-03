@@ -47,7 +47,7 @@ import hw1_test
 
 from hw1_test import a, b, c, d, e, f
 
-print str (a), str (b), str (c), str (d), str (e), str (f)
+print 'A =', str (a),   'B =' , str (b),'C =', str (c),'D =', str (d),'E =', str (e), 'F =', str (f)
 
 
 ###
@@ -67,7 +67,7 @@ f = True
 
 x= ((a and b) or (not c) and not (d or e or f))
 
-print x
+print '((a and b) or (not c) and not (d or e or f)) =', x
 
 ###
 ### Collaboration
