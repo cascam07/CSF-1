@@ -31,8 +31,8 @@ x = (-b + sqrt(b**2 - 4*(a*c)))/2*a
 
 y = (-b - sqrt(b**2 - 4*(a*c)))/2*a
 
-print x
-print y
+print 'x =', x
+print 'y =', y
 
 # Had trouble with syntax error at first. It is still computing wrong answer, don't know how to fix.
 # Read the chapters in Python book- realized b** does not equal b^2. Rather it is B**2
