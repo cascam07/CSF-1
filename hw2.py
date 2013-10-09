@@ -30,8 +30,6 @@ print "Problem 2 solution follows:"
 for i in range (2, 11):
     print 1.0/i
 
-
-
 ###
 ### Problem 3
 ###
@@ -55,8 +53,8 @@ print "Triangular number", n, "via formula:", n*(n+1)/2
 print "Problem 4 solution follows:"
 
 n = 10
-for i in range (n):
-    n = n * (i + 1)
+for i in range (1, n):
+     n = n * i
 print (n)
 
 ###
@@ -66,7 +64,15 @@ print (n)
 # DO NOT CHANGE THE FOLLOWING LINE
 print "Problem 5 solution follows:"
 
-# ... write your code and comments here (and remove this line)
+numlines = 10
+
+
+for i in range (1, numlines + 1 ):
+    n = (numlines + 1) - i
+    for x in range (n):
+        x = x * i
+        print x
+
 
 ###
 ### Problem 6
