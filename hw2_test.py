@@ -9,11 +9,6 @@
 # Hint: don't try to work the very first "1 +" into your loop; do it outside the loops (either at the very beginning or the very end of the outer loop).
 
 
-n = 10
+n = 100
 
 
-for i in range (2, 11):
-    n = 1.0/i
-    for i in range (1, n):
-        n = (n + 1) * i
-print (n)
