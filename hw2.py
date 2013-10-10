@@ -99,18 +99,27 @@ for i in range (1, numlines + 1 ):
 # DO NOT CHANGE THE FOLLOWING LINE
 print "Problem 6 solution follows:"
 
+Sum = 0.00
+n = 0.00
 
-for i in range (2, 11):
-    n = 1.0/i
-    for i in range (1, n):
-        n = (n + 1) * i
-print (n)
+for i in range (1, 10):
+    n = i
+    factorial = 1.00
+    recFact = 0.00
+    
+    for x in range (1, n + 1):
+        factorial = factorial * x
+        
+    recFact = 1 / factorial
+    Sum = Sum + recFact
+Sum = 1 + Sum
+print Sum
 
 ###
 ### Collaboration
 ###
 
-# Mary...
+# Mary...Zack Rave (Basically all of number 6)
 
 ###
 ### Reflection
