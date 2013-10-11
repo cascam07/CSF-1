@@ -1,0 +1,9 @@
+#Grader Name: Zack Raver
+#Evergreen Login: ravzac14
+
+from Lab2 import N
+i = 0
+x = "Hello World"
+while(i<n):
+    print x
+    i = i + 1

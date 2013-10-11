@@ -24,7 +24,10 @@ n = 100
 while ( n < 5050):
     n = (n - n) + n + 1
 print (n)
+<<<<<<< HEAD
 print #Prints blank line, making it easier to read. From homework critque week 2.
+=======
+>>>>>>> 1315ee9e05d74a8815fad613a3197940ce300744
 
 
 
@@ -47,6 +50,8 @@ print "Problem 2 solution follows:"
 for i in range (2, 11):
     print 1.0/i
 print
+
+# This problem and figuring out a very short for loop, took hours.
 
 # This problem and figuring out a very short for loop, took hours.
 
@@ -91,7 +96,11 @@ for i in range (1, numlines + 1 ):
     for i in range (1, n):
         n = n * i
     print (n)
+<<<<<<< HEAD
 print
+=======
+
+>>>>>>> 1315ee9e05d74a8815fad613a3197940ce300744
 
 
 ###
@@ -116,7 +125,11 @@ for i in range (1, 10):
     Sum = Sum + recFact
 Sum = 1 + Sum
 print Sum
+<<<<<<< HEAD
 print
+=======
+
+>>>>>>> 1315ee9e05d74a8815fad613a3197940ce300744
 ###
 ### Collaboration
 ###
