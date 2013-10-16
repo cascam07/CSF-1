@@ -46,8 +46,8 @@ AT-content: 0.568993851852
 
 Collaboration:
 
-...
+... Did by myself
 
 Reflection:
 
-...
+... At first this assignment seemed very daunting because of the complex and novel nature of the code for DNA sequencing. Or maybe the concept of being intimate with code for sequencing DNA (even if simply) was a mental hurdle to get over. It turned out to be much easier and was more about augmenting or editing pre=existing code than creating new code. 
