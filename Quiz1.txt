@@ -1,7 +1,7 @@
 #Grader Name: Zack Raver
 #Evergreen Login: ravzac14
 
-from Lab2 import N
+from lab2.py import n
 i = 0
 x = "Hello World"
 while(i<n):
@@ -11,3 +11,6 @@ while(i<n):
 # Comments from instructor: Paul Pham [10/16/2013]
 # Mostly right, but type this out again in a separate
 # file called quiz1.py, run it, correct it, and commit it.
+
+#Comments from partner: Zack Raver(10/17/2013)
+#All correct just adjusted to file name to match the file I created to pull n from
