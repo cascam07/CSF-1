@@ -15,7 +15,7 @@ dna_analysis.py program.
 
 Problem 1:
 
-
+The Total count variable and Seq length variable are always the same on all the test files. However, the sum count is different on all of them from total count and seq length. The Test Small file is the only file in which all of these three variables are the same. Im struggling to comprehend why there is this difference. Is it a problem found in the python code? Or is it a matter of understanding and visualizing DNA nucleotides that the missing numbers will be found? There is also a discrepancy with rounding (I believe in the Python code) where certain numbers are incredibly marginally slightly off..and I cannot figure out why.
 
 Problem 2:
 
