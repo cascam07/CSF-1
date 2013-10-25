@@ -76,3 +76,4 @@ print '((a and b) or (not c) and not (d or e or f)) =', x
 # Got help from another student in library on equation for Prob# 1, don't know her name though.
 # Took me around 1-2 hours...mainly the first problem and working out syntax errors. Did not realize there was a tutorial
 # Pretty ignorant of me, it would have saved me some time I think in looking at them beforehand.
+# 
